@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416814380582",
+    "project_id": "kflats-90c99",
+    "storage_bucket": "kflats-90c99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416814380582:android:4aec46fb9e5495dc1758e7",
+        "android_client_info": {
+          "package_name": "com.kflats.kflats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416814380582-4k6gu5gm5ge8fb6dcahdek702ndtjdjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kflats.kflats",
+            "certificate_hash": "b882d34a9fae07e651ee976fb05e8d5bb265ee27"
+          }
+        },
+        {
+          "client_id": "416814380582-739h8kitlgt9ve66ahm03b8m2o3gm6h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhYzGF9lKVa57QTFPbbI3JrDmkS_aftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416814380582-739h8kitlgt9ve66ahm03b8m2o3gm6h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
